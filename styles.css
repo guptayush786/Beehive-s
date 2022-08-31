@@ -1,0 +1,391 @@
+body {
+    text-align: center; 
+}
+
+/* N A V B A R */
+
+/* navbar 1 */
+
+.nav1-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* navbar 2  */
+
+.nav2-item {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    padding: 5px 40px;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+
+ 
+/* navbar 3 */
+.nav3div {
+    
+     background-color: silver;
+     padding: 10px 0 15px 0;
+}
+
+.nav3 {
+    color: #333;
+    padding: 10px 50px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.nav3:hover {
+    color: #B33030;
+    
+}
+
+
+
+/* Carousel Banners */
+
+ 
+
+.carouselButton {
+    width: 70px;
+    height: 70px;
+}
+
+ .carouselBanner {
+     width: 1350px;
+     height: 700px;
+ }
+
+ .carouselContent1 {
+     font-size: 70px;
+     text-align: right;
+     margin-bottom: 150px;
+     font-weight: bold;
+ }
+
+ .carouselContent2 {
+     font-size: 120px;
+      margin-bottom: 240px;
+     font-weight: bold;
+ }
+
+  /* O F F E R */
+
+  /* offer 1 */
+   #offers{
+       background-color: #B33030;
+   }
+
+   .para-offer1 {
+       font-size: 40px;
+       padding: 62px 20px;
+       font-weight: bold;
+       color: white;
+   }
+
+   .span-offer1 {
+       color: #B33030;
+       background-color: white;
+       margin-left: 20px;
+       padding: 5px 10px;
+   }
+
+   /* Offer 2 */
+
+    .para-offer2 {
+        padding: 50px 10px;
+        font-weight: bold;
+        color: white;
+    }
+   .span-offer2 {
+       font-weight: bold;
+       font-size: 40px;
+       color: white;
+
+   }
+
+   .para2-offer2 {
+       color: #B33030;
+       background-color: white;
+       font-size: 40px;
+       margin-top: 50px;
+       font-weight: bold;
+   }
+    /* Offer 3  */
+   .offer3 {
+       background-color: white;
+       margin: 50px 0px 40px 0;
+   }
+
+   .span-offer3 {
+       font-size: 40px;
+       color: black;
+       font-weight: bold;
+   }
+
+   .para-offer3 {
+       font-weight: bold;
+       font-size: 20px;
+       color: black;
+   }
+
+   .para2-offer3{
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    margin-top: 25px;
+    font-weight: bold;
+   }
+
+   /* Q U A L I T  Y */
+
+   .icon-quality{
+       font-size: 40px;
+       margin: 30px auto 20px;
+        
+   }
+
+   .icon-quality:hover{
+       color: #B33030;
+   }
+
+   .para-quality{
+       color: #333;
+       font-size: 30px;
+       font-weight: bold;
+       margin-bottom: 40px;
+   }
+
+   .container-quality{
+       width: 80%;
+   }
+
+   /* R E V I E W */
+
+   #review{
+       background-color: #B33030;
+   }
+
+   .img-review {
+       width: 200px;
+       height: 200px;
+       margin: 40px 40px 200px;
+   }
+
+   .heading-review {
+       font-size: 30px;
+       font-weight: bold;
+       margin-bottom: 20px;
+      
+   }
+
+   .para-review{
+       font-size: 20px;
+
+   }
+
+   /* T R E N D I N G */
+
+   .heading-trend {
+       font-size: 30px;
+       
+       font-weight: bold;
+       margin: 40px auto;
+   }
+
+    .img-trend {
+        width: 300px;
+        height: 500px;
+        margin: 20px 40px
+    }
+
+    .para-trend {
+         
+        font-size: 25px;
+        font-weight: bold;
+         text-align: center;
+         margin: 5px auto;
+    }
+
+    /* C A T E G O R Y */
+
+    .category-button{
+        font-weight: bold;
+        color: #333;
+        font-size: 20px;
+    }
+ 
+    .card1{
+        border:0;
+    }
+    
+    .card1-2{
+        border:0;
+        text-align:center;
+    }
+    
+    .card-head{
+        text-align:center;
+        padding: 50px 0px;
+        font-weight: bold;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .card-head2{
+        text-align:center;
+        padding:10px 0px;
+    }
+    
+    .card-img{
+        border-radius:10px;
+    }
+    
+    .footer-text{
+        text-align:center;
+    }
+
+    /* I N F O R M A T I O N */
+
+    .para1-info {
+        text-align: left;
+        color: #333;
+        margin: 10px 40px;
+    }
+
+    
+    .moretext {
+        display: none;
+      }
+
+      .button-info {
+          color: black;
+          text-decoration: none;
+          font-weight: bold;
+      }
+
+      .button-info:hover {
+         color:#B33030;
+      }
+
+      /* C O N T  A C T */
+
+      #contact {
+          background-color: silver;
+          text-align: center;
+          margin: 10px auto 0;
+           
+      }
+
+      .heading-contact {
+          color: black;
+          font-weight: bold;
+          padding-top: 40px;
+          padding-bottom: 10px;
+          
+      }
+
+      .para1-contact {
+          color: black;
+      }
+
+      .button1-contact {
+          padding: 5px 40px 0;
+      }
+
+      .rule-contact {
+        color: #333;
+        margin-top: 20px;
+    }
+
+    .terms-contact {
+        margin: 20px;
+        color: #333;
+        margin-left: 10px;
+        
+    }
+
+    .heading1-contact {
+      color: black;
+      font-weight: bold;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+
+    .list-contact {
+        list-style-type: none;
+        font-weight: bold;
+        text-align: left;
+    }
+
+    .contact-div {
+        margin: 0;
+    }
+
+    .social-contact {
+        font-size: 25px;
+        margin: 10px 15px;
+        color: #333;
+    }
+
+    .social-contact:hover {
+        color: #b33030;
+    }
+
+    .paral-contact {
+        columns: #333;
+        font-size: 15px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        margin-bottom: 0;
+        
+    }
+
+    /* R E S P O N S I V E */
+    
+     @media (max-width:1270px){
+
+        /* O F F E R S */
+         .para-offer1{
+             font-size: 30px;
+         }
+         .span-offer2{
+            font-size: 30px;
+         }
+         .para-offer2{
+             font-size: 20px;
+         }
+         .para2-offer2{
+             font-size: 30px;
+             margin-top: 60px;
+         }
+         .para-offer3{
+            font-size: 25px;
+
+         }
+         .span-offer3{
+            font-size: 30px;
+             
+         }
+         .para2-offer3{
+            font-size: 30px;
+            margin: 35px;
+         }
+
+         @media (max-width: 1175px){
+
+         }
+
+         
+     }
+
+    
+
+    
+
