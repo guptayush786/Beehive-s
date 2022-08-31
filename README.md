@@ -1,2 +1,3 @@
 # Beehive-s
-Alanding page for a clothing website
+A landing page for a clothing website
+Live Version: https://guptayush786.github.io/Beehive-s/
